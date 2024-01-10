@@ -1,6 +1,4 @@
 <template>
-  <div>Github Page</div>   
+  <div>Github Page Developper</div>
 </template>
- <script setup>
- 
- </script>
+<script setup></script>
