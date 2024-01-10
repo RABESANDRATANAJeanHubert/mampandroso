@@ -1,5 +1,5 @@
 <template>
-  <div>Document Page</div>
+  <div>Document for client</div>
 </template>
 
 <script setup></script>

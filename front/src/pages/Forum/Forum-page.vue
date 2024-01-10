@@ -1,5 +1,5 @@
 <template>
-  <div>Forum Page</div>
+  <div>Forum Page for client</div>
 </template>
 
 <script setup></script>
