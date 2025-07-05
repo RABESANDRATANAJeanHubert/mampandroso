@@ -34,7 +34,7 @@ url-shortener/
 ## clone the repository
 git clone https://github.com/RABESANDRATANAJeanHubert/mampandroso.git
 
-cd url-shortener-backend
+cd url-backend
 
 ## Installation
 
